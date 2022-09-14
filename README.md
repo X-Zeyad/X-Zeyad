@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm zeyad abdelnaby</h1>
-<h3 align="center"color="#0000ff">problem solver and software engineer</h3>
+<h3 align="center" color="blue">problem solver and software engineer</h3>
 
 - 🌱 I’m currently learning **back end , problem solving**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zeyadabdelnaby15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hl9s03xowB7A-ns5x-0TxSanaCrRrqO2/view?usp=sharing](https://drive.google.com/file/d/1Hl9s03xowB7A-ns5x-0TxSanaCrRrqO2/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Hl9s03xowB7A-ns5x-0TxSanaCrRrqO2/view?usp=sharing)
 
 - ⚡ Fun fact **I think i'm hard worker**
 
