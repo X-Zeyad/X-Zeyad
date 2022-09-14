@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue;">Hello 👋, I'm zeyad abdelnaby</h1>
+<h1 align="center" style="color:blue;">Hello 👋, I'm [zeyad abdelnaby]</h1>
 <h3 align="center" style="color:blue;">problem solver and software engineer</h3>
 
 - 🌱 I’m currently learning **back end , problem solving**
