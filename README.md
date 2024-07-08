@@ -1,15 +1,15 @@
 <h1 align="center" style="color:blue;">Hello 👋, I'm Zeyad Abdelnaby</h1>
 <h3 align="center" style="color:blue;">problem solver and software engineer</h3>
 
-- 🌱 I’m currently learning **back end , problem solving**
+- 🌱 I’m currently learning **back end using .net, front end using react**
 
-- Intersts **devops , backend**
+- Interests **backend, computer science**
 
 - 📫 How to reach me **zeyadabdelnaby15@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Hl9s03xowB7A-ns5x-0TxSanaCrRrqO2/view?usp=sharing)
 
-- ⚡ Fun fact **I think i'm hard worker**
+- ⚡ Fun fact **I think I'm a hard worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
