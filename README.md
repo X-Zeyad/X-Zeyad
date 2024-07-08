@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyad-sudo&show_icons=true&locale=en" alt="zeyad-sudo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-sudo&theme=dark" alt="zeyad-sudo" /></p>
+/*<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-sudo&theme=dark" alt="zeyad-sudo" /></p>*/
