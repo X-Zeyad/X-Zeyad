@@ -1,5 +1,5 @@
 <h1 align="center" style="color:blue;">Hello 👋, I'm Zeyad Abdelnaby</h1>
-<h3 align="center" style="color:blue;">problem solver and software engineer</h3>
+<h3 align="center" style="color:blue;">software engineer</h3>
 
 - 🌱 I’m currently learning **back end using .net, front end using react**
 
