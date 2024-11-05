@@ -2,7 +2,7 @@
 <h3 align="center" style="color:blue;">BackEnd Developer | Computer Science Graduate</h3>
 
 - 🌱 I’m currently learning **back-end development with .NET and front-end with Vue.js**
-- 🖥️ I'm currently working @ **Misk for Integrated Solutions"" as a full-stack developer
+- 🖥️ I'm currently working @ **Misk for Integrated Solutions** as a ***full-stack developer***
 - 📚 Education: **Bachelor’s in Computer Science** from South Valley University (2020 - 2024)
 - 📄 [My Resume](https://drive.google.com/file/d/1Hl9s03xowB7A-ns5x-0TxSanaCrRrqO2/view?usp=sharing)
 - ⚡ Fun fact: **I’m a dedicated hard worker**
