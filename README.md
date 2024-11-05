@@ -2,7 +2,7 @@
 <h3 align="center" style="color:blue;">BackEnd Developer | Computer Science Graduate</h3>
 
 - 🌱 I’m currently learning **back-end development with .NET and front-end with Vue.js**
-- 🖥️ Experienced in **building medical, meeting management, and facilities management systems**
+- 🖥️ I'm currently working @ **Misk for Integrated Solutions"" as a full-stack developer
 - 📚 Education: **Bachelor’s in Computer Science** from South Valley University (2020 - 2024)
 - 📄 [My Resume](https://drive.google.com/file/d/1Hl9s03xowB7A-ns5x-0TxSanaCrRrqO2/view?usp=sharing)
 - ⚡ Fun fact: **I’m a dedicated hard worker**
@@ -38,8 +38,8 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-- [Medical System](https://github.com/zeyad-sudo/MedicalSystem): Built a healthcare management system for patient reservations across clinics and labs, integrated LLMs for tumor detection with 95% accuracy, and optimized operations with .NET Core.
-- [Meeting Management System](https://github.com/zeyad-sudo/Meeting-Management-System): Developed an organizational system that automated 85% of manual processes, saving 25+ hours monthly.
-- [Facilities Management System](https://github.com/zeyad-sudo/Facilities-Management-System): Created a backend for a venue license verification app managing 500+ verifications daily.
+- [Medical System]: Built a healthcare management system for patient reservations across clinics and labs, integrated LLMs for tumor detection with 95% accuracy, and optimized operations with .NET Core.
+- [Meeting Management System]: Developed an organizational system that automated 85% of manual processes, saving 25+ hours monthly.
+- [Facilities Management System]: Created a backend for a venue license verification app managing 500+ verifications daily.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyad-sudo&show_icons=true&locale=en" alt="zeyad-sudo" /></p>
