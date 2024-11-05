@@ -39,7 +39,9 @@
 
 <h3 align="left">Projects:</h3>
 - [Medical System]: Built a healthcare management system for patient reservations across clinics and labs, integrated LLMs for tumor detection with 95% accuracy, and optimized operations with .NET Core.
+<br/>
 - [Meeting Management System]: Developed an organizational system that automated 85% of manual processes, saving 25+ hours monthly.
+<br/>
 - [Facilities Management System]: Created a backend for a venue license verification app managing 500+ verifications daily.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyad-sudo&show_icons=true&locale=en" alt="zeyad-sudo" /></p>
