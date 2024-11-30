@@ -1,5 +1,5 @@
 <h1 align="center" style="color:blue;">
-  Hello 👋<span style="animation: wave 2s infinite;">👋</span>, I'm Zeyad Abdelnaby
+  Hello 👋, I'm Zeyad Abdelnaby
 </h1>
 <h3 align="center" style="color:blue;">Full-Stack Developer | Computer Science Graduate</h3>
 
@@ -61,11 +61,3 @@
   - Integrated **Windows Forms** for robust user interactions.  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyad-sudo&show_icons=true&locale=en" alt="zeyad-sudo" /></p>
-
-<style>
-  @keyframes wave {
-    0% { transform: rotate(0deg); }
-    50% { transform: rotate(15deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
