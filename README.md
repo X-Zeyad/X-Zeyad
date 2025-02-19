@@ -1,7 +1,7 @@
 <h1 align="center" style="color:blue;">
   Hello 👋, I'm Zeyad Abdelnaby
 </h1>
-<h3 align="center" style="color:blue;">Full-Stack Developer | Computer Science Graduate</h3>
+<h3 align="center" style="color:blue;">Back-End Developer</h3>
 
 - 🌱 **Currently Exploring**: Advanced features of **.NET Core 8**, real-time systems with **SignalR**, and front-end mastery using **Vue.js 3**.  
 - 🖥️ **Current Role**: Full-Stack Developer @ **Misk for Integrated Solutions**.  
