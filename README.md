@@ -4,7 +4,7 @@
 <h3 align="center" style="color:blue;">Back-End Developer</h3>
 
 - 🌱 **Currently Exploring**: Advanced features of **.NET Core 8**, real-time systems with **SignalR**, and front-end mastery using **Vue.js 3**.  
-- 🖥️ **Current Role**: Full-Stack Developer @ **Akvelon*.  
+- 🖥️ **Current Role**: Full-Stack Developer @ **Akvelon**.  
 - 📚 **Education**: Bachelor’s in Computer Science, **South Valley University (2020 - 2024)**.  
 - 💡 **Achievements**:  
   - Co-founded **ACPC SVU**: Mentored 250+ students in competitive programming.  
